@@ -3,6 +3,7 @@
 ## 🚀 About Me
 
 * I am Ahmet Umit, a passionate data scientist, currently improving Machine Learning and Deep Learning Skills.
+* I am seeking to contribute creative teams in challenging Data Science projects.
 
 ## 🛠️ Skills
 
