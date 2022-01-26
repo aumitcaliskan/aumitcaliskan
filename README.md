@@ -14,9 +14,10 @@
  
 * Jupyter Notebook
 * Visual Studio Code
-* Pycharm
 * PostgreSQL
 * SQLite
+* Spark
+* Pytorch
 
 ## 📈 Stats
 
