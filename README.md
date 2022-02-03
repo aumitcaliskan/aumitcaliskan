@@ -18,6 +18,7 @@
 * SQLite
 * Spark
 * Pytorch
+* Power BI
 
 ## 📈 Stats
 
