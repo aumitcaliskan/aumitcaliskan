@@ -16,8 +16,10 @@
 * Visual Studio Code
 * PostgreSQL
 * SQLite
+* MySQL
 * Spark
 * Pytorch
+* Streamlit
 * Power BI
 
 ## 📈 Stats
