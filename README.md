@@ -12,13 +12,9 @@
     
 ## 🛠️ Tools
  
-* Jupyter Notebook
-* Visual Studio Code
 * PostgreSQL
 * SQLite
-* MySQL
-* Spark
-* Pytorch
+* PySpark
 * Streamlit
 * Power BI
 
