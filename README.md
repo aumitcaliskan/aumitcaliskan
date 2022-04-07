@@ -12,12 +12,22 @@
     
 ## 🛠️ Tools
  
-* PostgreSQL
-* SQLite
-* PySpark
-* Streamlit
-* Power BI
+| SQL           | Visualization | Other  |
+| ------------- | ------------- | ------ |
+| PostgreSQL    | Power BI      | AWS |
+| SQLite        | Tableau       | Streamlit |
 
+## ✨ Frameworks
+    
+* NumPy | Pandas | SciPy
+* Seaborn | Matplotlib | Plotly
+* Statsmodels 
+* Scikit-Learn
+* TensorFlow | Keras
+* NLTK | SpaCy
+* Pyomo | PuLP
+* Imbalanced-Learn
+    
 ## 📈 Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aumitcaliskan" alt="aumitcaliskan" /> </p>
