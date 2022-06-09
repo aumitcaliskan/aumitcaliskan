@@ -15,7 +15,7 @@
 | SQL           | Visualization | Other  |
 | ------------- | ------------- | ------ |
 | PostgreSQL    | Power BI      | AWS |
-| SQLite        | Tableau       | Streamlit |
+| MySQL        | Tableau       | Streamlit |
 
 ## ✨ Frameworks
     
